@@ -29,10 +29,10 @@ class Root:
         return "\
         <html>\
         <head>\
-        <title>Google Drive to Rss</title>\
+        <title>Google Drive to RSS</title>\
         </head>\
         <body>\
-        <a href=\"http://github.com/Ale46/google-drive-to-rss\">Google Drive to Rss</a>\
+        <a href=\"https://github.com/juliustip/Drive-to-RSS/\">Google Drive to RSS</a>\
         </body>\
         </html>"
 
