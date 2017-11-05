@@ -1,4 +1,4 @@
-##Google Drive to Rss [![gittip](https://img.shields.io/gittip/Ale46.svg)](https://www.gratipay.com/Ale46/)
+##Google Drive to Rss [![gittip](https://img.shields.io/gittip/Julius.svg)](https://www.gratipay.com/Julius/)
 A tool that give you the possibility to have a rss feed from a **public** [google drive](http:/drive.google.com) directory. Useful in combination with [Pushbullet](pushbullet.com) , [IFFT](ifttt.com) or just an helper to setup a personal podcast based on google drive.
 
 ##Configuration
